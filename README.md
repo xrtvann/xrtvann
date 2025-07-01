@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning at state polytechnic of jember in informatic engineering study program. <br>🎯 Goals: I want to be a website developer</p>
+<p align="left">📚 I'm currently learning at state polytechnic of jember in informatic engineering study program. <br>🎯 Goals: I want to be a website developer after graduate</p>
 
 ###
 
