@@ -93,22 +93,35 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=xrtvann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&custom_title=GitHub%20Stats" alt="stats graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=xrtvann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&custom_title=GitHub%20Stats&cache_seconds=0&show_owner=true" alt="stats graph" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrtvann&theme=onedark&hide_border=false" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrtvann&theme=onedark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xrtvann&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=onedark&hide_border=false&custom_title=Most%20Used%20Languages" alt="languages graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xrtvann&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=onedark&hide_border=false&custom_title=Most%20Used%20Languages&cache_seconds=0&include_all_commits=true&count_private=true" alt="languages graph" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xrtvann&theme=one-dark&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xrtvann&theme=one-dark&hide_border=true&custom_title=Contribution%20Graph&area=true&cache_seconds=0" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xrtvann&theme=onedark&cache_seconds=0" alt="Profile Details" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xrtvann&theme=onedark&utcOffset=7&cache_seconds=0" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
